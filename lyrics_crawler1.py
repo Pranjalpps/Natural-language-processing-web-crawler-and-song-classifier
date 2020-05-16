@@ -54,7 +54,7 @@ def load_lyrics(name,primarylink):
     
 def main():
     
-    dict={"mattalica":"https://www.metrolyrics.com/metallica-lyrics.html","snoop":"https://www.metrolyrics.com/snoop-dogg-lyrics.html",
+    dict={"mettalica":"https://www.metrolyrics.com/metallica-lyrics.html","snoop":"https://www.metrolyrics.com/snoop-dogg-lyrics.html",
           "bob":"https://www.metrolyrics.com/bob-dylan-lyrics.html","britney":"https://www.metrolyrics.com/britney-spears-lyrics.html"}
 
     for item in dict:
