@@ -81,7 +81,6 @@ def main():
     
     data=[]
     labels=[]
-    lemma=[]
     Path = r"/home/pranjal/Desktop/song_classification" #Path to the data set downloaded by the web crawler
     filelist = os.listdir(Path)
     for i in range(4):      #taking 1 file each from any 3 categories for text preprocessing
